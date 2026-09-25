@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors (Dart)
+# Rockk, Paper, Scissors (Dart)
 Name: Angelica Villarubia
 Section : A1-  ILFV3
 
