@@ -1,6 +1,6 @@
 import 'dart:io';
 
-///The List of Player choice for the game
+///List of Player choice for the game
 List<String> playerChoices = ['rock', 'paper', 'scissors'];
 
 //Check the player input if it's valid or not
